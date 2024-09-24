@@ -6,9 +6,6 @@ Welcome to the Adventure Game! This is a simple text-based game that allows play
 
 - [Features](#features)
 - [Getting Started](#getting-started)
-- [How to Play](#how-to-play)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
@@ -30,3 +27,14 @@ To play the game, simply clone the repository and run the Python script. Ensure 
    ```bash
    git clone https://github.com/smazhuvan/adventure-game.git
    cd adventure-game
+
+2. python adventure_game.py
+
+### How to Play
+
+- Enter your name when prompted.
+- Decide whether you want to play the game.
+- Choose your path: left or right.
+- Make further decisions that lead to different outcomes.
+- Enjoy the adventure!
+
